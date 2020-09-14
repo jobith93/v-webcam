@@ -1,7 +1,12 @@
 {
   "name": "v-webcam",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A WebCam Component for VueJS",
+  "author": {
+    "name": "Jobith M Basheer",
+    "email": "jobith@three38inc.com"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
